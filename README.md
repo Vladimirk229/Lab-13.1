@@ -1,0 +1,1 @@
+The main program is in the server.js file. It requires express, dotenv and mongodb, loads environment variables from the .env file, creates an Express app instance, connects to my database and starts the server.
